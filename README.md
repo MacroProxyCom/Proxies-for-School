@@ -94,4 +94,5 @@ While proxies can bypass restrictions, it’s crucial to use them responsibly. A
 School proxies offer a solution for accessing blocked content, whether for educational projects, gaming, or social networking. Use them responsibly to enhance your school internet experience. Ready to unlock the internet at school? Explore reliable proxies for seamless access to your favorite sites and games today!
 
 Learn more: https://www.macroproxy.com/pricing?mealType=1
+
 ![image](https://github.com/user-attachments/assets/010f7b14-2fec-41a1-a438-ec4fa5f01fef)
